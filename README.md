@@ -1,3 +1,3 @@
 # hello-world
-just getting to know github
-it feels awesome have my first repository ready.
+just getting to know github.
+it feels awesome to have my first repository ready.
